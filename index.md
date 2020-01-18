@@ -1,7 +1,7 @@
 # Heading 1 
 ## now what do we do
 
-These recommendations are offered on the basis of our extensive experience running innovation workshops. However, the specific requirements for each event will be defined together with your event’s project manager, so please treat these recommendations as broad guidelines.
+These recommendations are offered on the basis of our extensive experience running innovation workshops. However, the specific requirements for each event will be defined together with your event’s project manager, so please treat these recommendations as broad [guidelines](/venue).
 
 We run dynamic, immersive events. We might go through a thousand post-it notes and draw giant diagrams. In order to do that, we post rolls of white paper up on the walls with painters tape, use lots of flip charts with easels, and utilize space by moving chairs and tables on occasion.
 
